@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/twitch_clone.git/static/css/main.075b2416.css",
-    "main.js": "/twitch_clone.git/static/js/main.7ceeea55.js",
-    "static/js/787.10ab2817.chunk.js": "/twitch_clone.git/static/js/787.10ab2817.chunk.js",
-    "index.html": "/twitch_clone.git/index.html",
-    "static/media/Croix.svg": "/twitch_clone.git/static/media/Croix.17dba8f160ef52b1764b5c6b55b8f485.svg",
-    "static/media/Search.svg": "/twitch_clone.git/static/media/Search.cc51b702c98798cd916ea5a3a8ca8b54.svg",
-    "static/media/MenuIco.svg": "/twitch_clone.git/static/media/MenuIco.620d038dc2ebf0473ad86b827a78dcd5.svg",
-    "static/media/IconeTwitch.svg": "/twitch_clone.git/static/media/IconeTwitch.398a24e3e33def7782b00101461eca7d.svg",
-    "main.075b2416.css.map": "/twitch_clone.git/static/css/main.075b2416.css.map",
-    "main.7ceeea55.js.map": "/twitch_clone.git/static/js/main.7ceeea55.js.map",
-    "787.10ab2817.chunk.js.map": "/twitch_clone.git/static/js/787.10ab2817.chunk.js.map"
+    "main.css": "/twitch_clone/static/css/main.075b2416.css",
+    "main.js": "/twitch_clone/static/js/main.2b9d128d.js",
+    "static/js/787.10ab2817.chunk.js": "/twitch_clone/static/js/787.10ab2817.chunk.js",
+    "index.html": "/twitch_clone/index.html",
+    "static/media/Croix.svg": "/twitch_clone/static/media/Croix.17dba8f160ef52b1764b5c6b55b8f485.svg",
+    "static/media/Search.svg": "/twitch_clone/static/media/Search.cc51b702c98798cd916ea5a3a8ca8b54.svg",
+    "static/media/MenuIco.svg": "/twitch_clone/static/media/MenuIco.620d038dc2ebf0473ad86b827a78dcd5.svg",
+    "static/media/IconeTwitch.svg": "/twitch_clone/static/media/IconeTwitch.398a24e3e33def7782b00101461eca7d.svg",
+    "main.075b2416.css.map": "/twitch_clone/static/css/main.075b2416.css.map",
+    "main.2b9d128d.js.map": "/twitch_clone/static/js/main.2b9d128d.js.map",
+    "787.10ab2817.chunk.js.map": "/twitch_clone/static/js/787.10ab2817.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.075b2416.css",
-    "static/js/main.7ceeea55.js"
+    "static/js/main.2b9d128d.js"
   ]
 }
