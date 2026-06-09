@@ -19,9 +19,7 @@
         "start": "HTTPS=true SSL_CRT_FILE='./.localhost+2.pem' SSL_KEY_FILE='./.localhost+2-key.pem' react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject",
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+        "eject": "react-scripts eject"
     },
     "eslintConfig": {
         "extends": [
@@ -40,8 +38,5 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
-    },
-    "devDependencies": {
-        "gh-pages": "^4.0.0"
     }
 }
